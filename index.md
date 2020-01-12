@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: 执掌好运的黄黑之王
-banner_subtitle: 我从诡秘中醒来，睁眼看见这个世界。
+banner_title: \#一往直前
+banner_subtitle: Comn On You Spurs!
 background_image: /images/spurs-stadium-opening-night.jpg
 
 # all of the following variables are optional -----------------
@@ -23,24 +23,24 @@ weibo_username:  sysuanton # your github username
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/AncientAnton # the link
-about_button_label: 在线简历 # the label on the button
+about_button: /#Blog # the link
+about_button_label: 点击继续 # the label on the button
 
 # optional portfolio section ------------------------------------------
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 # the heading for your portfolio and title of your YAML file
-portfolio:  Blog
+portfolio: Blog
 
 # a description to be desplayed below the heading and above the content
-portfolio_description:  工作与工作之外的一切
+portfolio_description: 工作之外的一切
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: 联系我 # the heading for your CTA section
-cta_description:  # a description to be desplayed below the heading and above the content
+cta: Contact # the heading for your CTA section
+cta_description: 猛击最下性浪微博 # a description to be desplayed below the heading and above the content
 cta_button: https://ancientanton.github.io/resume/resume.html # a link to an external website or to media
 cta_button_label: 在线简历 # the label on the button
 
@@ -55,17 +55,8 @@ cta_button_label: 在线简历 # the label on the button
 
 **游戏** --> 云玩家+直播党
 
-* LOL
-    * 8年佛系老玩家
-    * 白金手残党
-    * 亚索43%胜率拥有者
-* AFK
-    * WOT
-    * 炉石传说
-    * PUBG
+* LOL 8年佛系老玩家，白金手残党，亚索43%胜率拥有者
 
-**足球** --> 佛系
+* AFK的游戏： WOT，炉石传说，PUBG
 
-* 伪球迷
-* 日常英超
-* 主队(热刺)[https://www.tottenhamhotspur.com/]
+**足球** --> 佛系伪球迷，日常英超，主队(热刺)

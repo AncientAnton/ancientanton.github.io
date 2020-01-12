@@ -3,7 +3,7 @@
 # in the root directory
 
 work:
-  - category: 随记
+  - category: pieces
     items:
       - item: 2020-01-12-begin.html
         image: /images/spurs-standium.jpg
