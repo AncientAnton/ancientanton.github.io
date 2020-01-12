@@ -1,1 +1,22 @@
-theme: jekyll-theme-cayman
+# FORK FROM https://github.com/saragong/hello
+
+title: 执掌好运的黄黑之王
+author: 愚者
+description: > 
+  我从诡秘中醒来，睁眼看见这个世界。
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  
+#---------------------------------------------------
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+
