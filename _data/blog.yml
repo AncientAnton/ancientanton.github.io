@@ -2,8 +2,8 @@
 # which are placed in the _includes folder
 # in the root directory
 
-work:
-  - category: Nichijou
+blog:
+  - category: 日常
     items:
       - item: 2020-01-12-begin.html
-      #  image: /images/spurs-standium.jpg
+        image: /images/spurs-standium.jpg
