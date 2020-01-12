@@ -3,7 +3,7 @@
 # in the root directory
 
 work:
-  - category: pieces
+  - category: Nichijou
     items:
       - item: 2020-01-12-begin.html
-        image: /images/spurs-standium.jpg
+      #  image: /images/spurs-standium.jpg
