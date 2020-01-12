@@ -313,6 +313,15 @@ custom styles adapted from Twenty by HTML5 Up
 					background: #e1b89b;
 				}
 
+				.icon.circle.fa-weibo {
+					background: #da3535;
+					color: white;
+				}
+	
+					.icon.circle.fa-weibo:hover {
+						background: #d67070;
+					}
+
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
 				color: white;
