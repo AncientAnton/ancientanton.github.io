@@ -21,8 +21,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1995
- - 求职意向：Java 工程师
- - 工作经验：4 年
+ - Java 工程师
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
